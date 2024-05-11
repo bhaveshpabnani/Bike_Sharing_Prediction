@@ -1,6 +1,6 @@
 # Objectives
 
-- Performe xploratory data analysis and visualize the data to understand the environmental and seasonal settings
+- Performe exploratory data analysis and visualize the data to understand the environmental and seasonal settings
 - Predict bike rental counts based on environmental and seasonal settings with the help of a machine learning algorithm
 
 ## Problem Statement
